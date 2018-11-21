@@ -1,0 +1,12 @@
+name: SBFTags
+version: 1.0
+description: Simple tags plugin!
+author: SpeedPotion
+
+main: SpeedTags.Main
+database: false
+
+commands:
+  tags:
+    description: Open the tags GUI.
+    aliases: [tag]

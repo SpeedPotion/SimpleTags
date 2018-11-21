@@ -1,0 +1,28 @@
+#    ____  ____  _____ _____
+#   / ___|| __ )|  ___|_   _|_ _  __ _ ___
+#   \___ \|  _ \| |_    | |/ _` |/ _` / __|
+#    ___) | |_) |  _|   | | (_| | (_| \__ \
+#   |____/|____/|_|     |_|\__,_|\__, |___/
+#                                |___/
+#
+# Plugin made by SpeedPotion for Skyblock.fun requested by Cintro.
+
+Messages:
+  NORMAL_GUI_NAME: '&b&lSkyblock Tags'
+  EDIT_GUI_NAME: '&b&lTag Editor | Choose a tag!'
+  TAG_DOESNT_MATCH: '&c&lHey&r&7 new tag needs to have the same letters as the old one!'
+  PLAYER_DOESNT_HAVE_THAT_TAG: '&c&lHey&r&7, {player} doesn´t have {tag} tag!'
+  TAG_DOESNT_EXIST: '&c&lHey&r&7, the tag {tag} doesn´t exist. Add it in the main config file.'
+  NO_PLAYER_FOUND: '&c&lHey&r&7, {player} is not online!'
+  PLAYER_ALREADY_HAS_TAG: '&c&lHey&r&7, {player} already has {tag} tag!'
+  ADDED_TAG: '&c&lYou added {player} {tag} tag!'
+  REMOVED_TAG: '&c&lYou removed {player} {tag} tag!'
+  ANVIL_MESSAGE: '&c&lType here new tag format!'
+  EDIT_MODE_ITEM_DISPLAYNAME: '&b&l * &7&lEdit Mode &b&l *'
+  PREFIX: '&f&l[&b&lSKYBLOCK.FUN&f&l]'
+
+Tags:
+  Swag: '&c&lSwag'
+  Awesome: '&c&lAwesome'
+  Perfect: '&c&lPerfect'
+  Noob: '&c&lNoob'
